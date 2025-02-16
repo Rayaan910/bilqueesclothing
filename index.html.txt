@@ -3,21 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fashion Design Pakistan</title>
+    <title>Bilquees Clothing</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <img src="logo.png" alt="Fashion Logo">
-        <h1>Fashion Design Pakistan</h1>
+        <img src="logo.png" alt="Bilquees Clothing Logo" width="200">
+        <h1>Bilquees Clothing</h1>
     </header>
     
     <section>
-        <p>Welcome to the world of fashion and embroidery. Explore beautiful Pakistani clothes designs with elegance and tradition.</p>
+        <p>Welcome to Bilquees Clothing, where tradition meets modern fashion. Discover elegant Pakistani designs, intricate embroidery, and timeless styles.</p>
     </section>
 
     <footer>
-        <p>© 2025 Fashion Design Pakistan. All rights reserved.</p>
+        <p>© 2025 Bilquees Clothing. All rights reserved.</p>
     </footer>
 </body>
 </html>
