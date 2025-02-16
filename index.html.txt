@@ -19,6 +19,5 @@
     <footer>
         <p>© 2025 Fashion Design Pakistan. All rights reserved.</p>
     </footer>
-
 </body>
 </html>
