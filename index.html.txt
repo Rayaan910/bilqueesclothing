@@ -19,7 +19,6 @@
     <footer>
         <p>© 2025 Fashion Design Pakistan. All rights reserved.</p>
     </footer>
-<img src="logo.png" alt="Bilquees Clothing Logo" width="200">
 
 </body>
 </html>
